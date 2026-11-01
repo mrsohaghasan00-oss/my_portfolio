@@ -1,0 +1,30 @@
+/* Style the whole page. */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    color: #222222;
+    max-width: 700px;
+    margin: auto;
+    padding: 20px;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+}
+
+/* Style my name. */
+h1 {
+    color: navy;
+}
+
+/* Style the section headings. */
+h2 {
+    color: teal;
+}
+
+/* Style the button. */
+button {
+    background-color: navy;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
